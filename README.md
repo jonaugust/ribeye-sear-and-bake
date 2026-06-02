@@ -1,6 +1,6 @@
 # Ribeye Recipe Sheets
 
-Five printable, one-page HTML cooking sheets for ribeye steaks — every common method, same visual style, target temps highlighted.
+Five printable, one-page HTML cooking sheets for ribeye steaks - every common method, same visual style, target temps highlighted.
 
 ## The Methods
 
@@ -9,7 +9,7 @@ Five printable, one-page HTML cooking sheets for ribeye steaks — every common 
 | [Cast Iron Sear & Bake](ribeye-sear-and-bake.html) | The classic. Weeknight ribeye, ~10 min cook. |
 | [Oven Reverse Sear (Fresh)](ribeye-reverse-sear-fresh.html) | Thick steaks, edge-to-edge pink, no sous vide needed. |
 | [Oven Reverse Sear (Frozen)](ribeye-reverse-sear-frozen.html) | Forgot to thaw, no sous vide. |
-| [Sous Vide (Fresh)](ribeye-sous-vide-fresh.html) | Most forgiving — set the bath, walk away. |
+| [Sous Vide (Fresh)](ribeye-sous-vide-fresh.html) | Most forgiving - set the bath, walk away. |
 | [Sous Vide (Frozen)](ribeye-sous-vide-frozen.html) | Frozen vac-sealed steak straight from freezer to bath. |
 
 ## How to use
@@ -18,11 +18,11 @@ Open any `.html` file in a browser and print (Cmd/Ctrl+P). Each sheet is formatt
 
 ## Common notes across all methods
 
-- **Get a thermometer.** Every sheet relies on internal temp, not the clock. My favorite: the [ThermoWorks Thermapen One](https://www.thermoworks.com/products/thermapen-one) — instant read, sub-second response.
+- **Get a thermometer.** Every sheet relies on internal temp, not the clock. My favorite: the [ThermoWorks Thermapen One](https://www.thermoworks.com/products/thermapen-one) - instant read, sub-second response.
 - **Pat the steak very dry before searing.** This is the single biggest factor in crust quality.
-- **Salt early. Pepper late.** Salt before cooking; pepper after resting (pepper burns in a hard sear). My favorite: [Maldon Sea Salt Flakes](https://maldonsalt.com/us/product/sea-salt-flakes-250g/) — pyramid flakes, great crunch.
+- **Salt early. Pepper late.** Salt before cooking; pepper after resting (pepper burns in a hard sear). My favorite: [Maldon Sea Salt Flakes](https://maldonsalt.com/us/product/sea-salt-flakes-250g/) - nice flavor and texture.
 - **Don't skip the rest** (except after sous vide / reverse sear, where the long rest already happened).
 
 ## License
 
-Public domain — do whatever you want with them.
+Public domain - do whatever you want with them.
