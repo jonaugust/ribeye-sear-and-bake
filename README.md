@@ -18,7 +18,7 @@ Open any `.html` file in a browser and print (Cmd/Ctrl+P). Each sheet is formatt
 
 ## Common notes across all methods
 
-- **Get a thermometer.** Every sheet relies on internal temp, not the clock.
+- **Get a thermometer.** Every sheet relies on internal temp, not the clock. My pick: the [ThermoWorks Thermapen One](https://www.thermoworks.com/products/thermapen-one) — instant read, sub-second response.
 - **Pat the steak very dry before searing.** This is the single biggest factor in crust quality.
 - **Salt early. Pepper late.** Salt before cooking; pepper after resting (pepper burns in a hard sear).
 - **Don't skip the rest** (except after sous vide / reverse sear, where the long rest already happened).
